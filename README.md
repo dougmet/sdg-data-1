@@ -1,8 +1,6 @@
 # SDG Data Repository
 
-[![Build Status](https://travis-ci.org/sustainabledevelopment-rwanda/sdg-data.svg?branch=develop)](https://travis-ci.org/ONSdigital/sdg-data)
-
-This repository holds the Rwanda data for SDG reporting. The data is served via a static http server.
+This repository holds the [Rwanda data](https://sustainabledevelopment-rwanda.github.io/sdg-indicators) for SDG reporting. The data is served via a static http server.
 
 # Servers
 
